@@ -9,11 +9,8 @@ format:
     toc-depth: 2
     toc-location: right
     theme: cosmo
-    code-fold: true
     page-layout: full
-    grid:
-      body-width: 1100px
-      margin-width: 200px
+    embed-resources: true
     css: styles.css
 editor: visual
 ---
