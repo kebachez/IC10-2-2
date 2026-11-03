@@ -52,10 +52,10 @@ This assignment examines the research questions and hypotheses for Case 31: Empl
 | R4a | Member residence (IV); attitudes toward employee proficiencies (DV) | Q38; Att_Employee | Nominal; Interval | Descriptive statistics; independent-groups t-test |
 | R4b | Member residence (IV); awareness of services (DV) | Q38; Q13r–Q26r | Nominal; Ordinal | Two-way cross-tabulation; chi-square test |
 | R4c | Member residence (IV); attitudes toward operational effectiveness (DV) | Q38; Q9r–Q10r; Q11–Q12rc; Q31–Q34; Q37r | Nominal; Interval / Nominal (depending on item) | Independent-groups t-test / chi-square test, as appropriate |
-| R5 | Awareness of services (descriptive) | Q13r–Q26r | Ordinal | Descriptive statistics (frequencies, percentages, and median); one-sample Wilcoxon signed-rank test if comparing responses against a specified reference level |
+| R5 | Awareness of services (descriptive) | Q13r–Q26r | Ordinal | Descriptive statistics (frequencies, percentages, and median) |
 | R6 | Members' attitudes and beliefs about the credit union's operational effectiveness (descriptive) | Q9r–Q10r; Q11–Q12rc; Q31–Q34; Q37r | Interval for numerical attitude ratings; nominal for categorical items (verify each item) | Descriptive statistics (means and standard deviations for interval items; frequencies and percentages for nominal items); reliability analysis for suitable multi-item scales |
-| H1 | Awareness of regular share accounts (IV); perceived ability of financial services to meet members' needs (DV) | Q13r (IV); Q33 (DV) | Ordinal (IV); verify Q33 scale (DV) | Spearman's rank correlation if both variables are ordinal; ordinal logistic regression if Q33 is an ordered categorical outcome |
-| H2 | Opinion on CU's loan rate (paired measure 1); agreement that CU's loan rate is lower than competitors' (paired measure 2) | Q8r; Q30 | Verify Q8r scale; Interval (Q30) | Paired-samples t-test if both variables are comparable interval measures from the same members |
+| H1 | Awareness of regular share accounts (IV); perceived ability of financial services to meet members' needs (DV) | Q13r (IV); Q33 (DV) | Ordinal (IV); Q33 scale requires verification | Spearman rank correlation if Q33 is ordinal; otherwise select the test based on Q33's response scale |
+| H2 | Opinion on CU's loan rate (measure 1); agreement that CU's loan rate is lower than competitors' (measure 2) | Q8r; Q30 | Q8r scale requires verification; Interval (Q30) | Paired-samples t-test if both measures use comparable interval scales |
 
 # Conclusion
 
