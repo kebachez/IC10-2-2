@@ -72,3 +72,4 @@ Overall, this assignment demonstrates the importance of matching research questi
 [View GitHub Repository](https://github.com/kebachez/IC10-2-2)
 
 ## GitHub Pages
+[View GitHub Pages](https://kebachez.github.io/IC10-2-2/)
