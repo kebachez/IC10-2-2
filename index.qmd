@@ -45,7 +45,7 @@ This assignment examines the research questions and hypotheses for Case 31: Empl
 # Data Analysis Table
 
 | RQ / Hypothesis | Constructs & Their Role | Operationalization | Scale | Statistical Test |
-|:---|:---|:---|:---|:---|
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 | R1 | Reasons to join the Credit Union (descriptive) | Q7 | Interval | Descriptive statistics; one-group t-test |
 | R2 | Reasons for borrowing from other financial institutions (descriptive) | Verify the corresponding questionnaire item(s) | Depends on questionnaire response format | Descriptive statistics (frequencies and percentages); additional tests depend on measurement scale |
 | R3 | Attitudes toward employee proficiencies | Q3–Q6 | Interval | Descriptive statistics; reliability/factor analysis; one-group t-test |
@@ -67,8 +67,8 @@ Overall, this assignment demonstrates the importance of matching research questi
 
 # Appendix
 
-
 ## GitHub Repository
+
 [View GitHub Repository](https://github.com/kebachez/IC10-2-2)
 
 ## GitHub Pages
