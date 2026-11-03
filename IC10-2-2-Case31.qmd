@@ -1,0 +1,74 @@
+---
+title: "IC10-2-2: Data Analysis Table"
+subtitle: "Case 31: Employees Federal Credit Union"
+author: "Kevin Bachez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    theme: cosmo
+    code-fold: true
+    page-layout: full
+    grid:
+      body-width: 1100px
+      margin-width: 200px
+    css: styles.css
+editor: visual
+---
+
+# Introduction
+
+This assignment examines the research questions and hypotheses for Case 31: Employees Federal Credit Union. The purpose is to identify the relevant constructs, operationalization of variables, measurement scales, and appropriate statistical tests for each research question and hypothesis.
+
+# Research Questions
+
+**R1:** Why do people join the Credit Union?
+
+**R2:** Why do members use other financial institutions when they need to borrow funds?
+
+**R3:** What are the members' attitudes and beliefs about the proficiencies of credit union employees?
+
+**R4:** Are there any perceived differences in (a) attitudes toward employee proficiencies, (b) awareness of services, and (c) operational effectiveness between members who live near the firm's headquarters and members who live elsewhere?
+
+**R5:** How well are members aware of the services offered by the credit union?
+
+**R6:** What are the members' attitudes and beliefs about how effectively the credit union is operated?
+
+## Research Hypotheses
+
+**H1:** Members' awareness of regular share accounts will influence their opinions on how well the current financial services provided by the credit union meet their needs.
+
+**H2:** Members will not differ in their opinions on CU's loan rate (Q8r) and the degree to which they agree that CU's loan rate is lower than competitors (Q30).
+
+# Data Analysis Table
+
+| RQ / Hypothesis | Constructs & Their Role | Operationalization | Scale | Statistical Test |
+|:---|:---|:---|:---|:---|
+| R1 | Reasons to join the Credit Union (descriptive) | Q7 | Interval | Descriptive statistics; one-group t-test |
+| R2 | Reasons for borrowing from other financial institutions (descriptive) | Verify the corresponding questionnaire item(s) | Depends on questionnaire response format | Descriptive statistics (frequencies and percentages); additional tests depend on measurement scale |
+| R3 | Attitudes toward employee proficiencies | Q3–Q6 | Interval | Descriptive statistics; reliability/factor analysis; one-group t-test |
+| R4a | Member residence (IV); attitudes toward employee proficiencies (DV) | Q38; Att_Employee | Nominal; Interval | Descriptive statistics; independent-groups t-test |
+| R4b | Member residence (IV); awareness of services (DV) | Q38; Q13r–Q26r | Nominal; Ordinal | Two-way cross-tabulation; chi-square test |
+| R4c | Member residence (IV); attitudes toward operational effectiveness (DV) | Q38; Q9r–Q10r; Q11–Q12rc; Q31–Q34; Q37r | Nominal; Interval / Nominal (depending on item) | Independent-groups t-test / chi-square test, as appropriate |
+| R5 | Awareness of services (descriptive) | Q13r–Q26r | Ordinal | Descriptive statistics (frequencies, percentages, and median); one-sample Wilcoxon signed-rank test if comparing responses against a specified reference level |
+| R6 | Members' attitudes and beliefs about the credit union's operational effectiveness (descriptive) | Q9r–Q10r; Q11–Q12rc; Q31–Q34; Q37r | Interval for numerical attitude ratings; nominal for categorical items (verify each item) | Descriptive statistics (means and standard deviations for interval items; frequencies and percentages for nominal items); reliability analysis for suitable multi-item scales |
+| H1 | Awareness of regular share accounts (IV); perceived ability of financial services to meet members' needs (DV) | Q13r (IV); Q33 (DV) | Ordinal (IV); verify Q33 scale (DV) | Spearman's rank correlation if both variables are ordinal; ordinal logistic regression if Q33 is an ordered categorical outcome |
+| H2 | Opinion on CU's loan rate (paired measure 1); agreement that CU's loan rate is lower than competitors' (paired measure 2) | Q8r; Q30 | Verify Q8r scale; Interval (Q30) | Paired-samples t-test if both variables are comparable interval measures from the same members |
+
+# Conclusion
+
+The Data Analysis Table for Case 31: Employees Federal Credit Union identifies the constructs, measurement scales, and statistical methods associated with six research questions and two hypotheses. The purpose of this analysis plan is to determine which statistical techniques are appropriate for examining members' attitudes, service awareness, and perceptions of the credit union's operations.
+
+Descriptive statistics are appropriate for summarizing members' reasons for joining the credit union, their awareness of services, and their attitudes toward employees and operational effectiveness. For research questions comparing members based on their residence, independent-samples t-tests and chi-square tests may be appropriate depending on the measurement scales. The hypotheses may require correlation, regression, or paired-samples testing, subject to verification of the questionnaire items and their statistical assumptions.
+
+Overall, this assignment demonstrates the importance of matching research questions and measurement scales with appropriate statistical methods. Verifying each survey item's measurement scale is necessary before conducting the actual data analysis.
+
+# Appendix
+
+
+## GitHub Repository
+[View GitHub Repository](https://github.com/kebachez/IC10-2-2)
+
+## GitHub Pages

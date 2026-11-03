@@ -1,0 +1,37 @@
+/* Data Analysis Table Styling */
+
+table {
+  width: 100%;
+  font-size: 14px;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #17365d;
+  color: white;
+  padding: 12px;
+  text-align: left;
+}
+
+td {
+  padding: 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f7fa;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+h1 {
+  color: #17365d;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #254b77;
+}
